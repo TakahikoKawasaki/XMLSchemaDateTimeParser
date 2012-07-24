@@ -23,7 +23,7 @@ there are some trivial points to note:
 - The specification allows a leading hyphen ('-') to indicate B.C. years, but
   XMLSchemaDateTimeParser just ignores the negative sign.
 - The specification does not mention the length of the millisecond part, but
-  XMLSchemaDateTimeParser assumes that the lenth is in between 1 and 3.
+  XMLSchemaDateTimeParser assumes that the length is in between 1 and 3.
 
 
 License
