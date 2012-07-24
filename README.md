@@ -47,7 +47,7 @@ Javadoc
 Example
 -------
 
-    Calendar calendar = XMLSchemaDateTimeParser.parse(2005-11-14T02:16:38Z)
+    Calendar calendar = XMLSchemaDateTimeParser.parse("2005-11-14T02:16:38Z");
 
 
 See Also
